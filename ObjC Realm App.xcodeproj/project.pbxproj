@@ -207,6 +207,7 @@
 				TargetAttributes = {
 					F4E494261E13D5D200D3888C = {
 						CreatedOnToolsVersion = 8.2;
+						DevelopmentTeam = DGHJ3A5DWH;
 						ProvisioningStyle = Automatic;
 					};
 					F4E4943F1E13D5D200D3888C = {
@@ -422,6 +423,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = DGHJ3A5DWH;
 				INFOPLIST_FILE = "ObjC Realm App/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "ZupBraz.ObjC-Realm-App";
@@ -433,6 +435,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = DGHJ3A5DWH;
 				INFOPLIST_FILE = "ObjC Realm App/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "ZupBraz.ObjC-Realm-App";
